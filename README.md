@@ -92,7 +92,7 @@ npm
 
 1) Clone the repository:
 
-git clone https://github.com/jayesh-unde/VoiceSphere.git
+git clone https://github.com/Harshit-singh31/VoiceSphere
 
 cd VoiceSphere
 
