@@ -59,7 +59,7 @@ VoiceSphere is a live streaming audio podcast platform designed for seamless and
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/jayesh-unde/VoiceSphere.git
+    git clone https://github.com/Harshit-singh31/VoiceSphere
     cd VoiceSphere
     ```
 
@@ -117,9 +117,7 @@ We welcome contributions from the community. Please follow these steps:
 
 This project is licensed under the MIT License.
 
-## Contact
 
-For support or inquiries, please contact [jayeshunde2002@gmail.com].
 
 ## Additional Information
 
